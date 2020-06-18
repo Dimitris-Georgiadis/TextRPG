@@ -11,3 +11,16 @@ C:\Users\Jigerai\Documents\dev\csharp\TextRPG\TestRPG\ui\obj\Debug\ui.csproj.Cop
 C:\Users\Jigerai\Documents\dev\csharp\TextRPG\TestRPG\ui\obj\Debug\ui.exe
 C:\Users\Jigerai\Documents\dev\csharp\TextRPG\TestRPG\ui\obj\Debug\ui.pdb
 C:\Users\Jigerai\Documents\dev\csharp\TextRPG\TestRPG\ui\obj\Debug\ui.TestRPG.resources
+C:\Users\Jigerai\Documents\dev\csharp\TextRPG\ui\bin\Debug\ui.exe.config
+C:\Users\Jigerai\Documents\dev\csharp\TextRPG\ui\bin\Debug\ui.exe
+C:\Users\Jigerai\Documents\dev\csharp\TextRPG\ui\bin\Debug\ui.pdb
+C:\Users\Jigerai\Documents\dev\csharp\TextRPG\ui\bin\Debug\engine.dll
+C:\Users\Jigerai\Documents\dev\csharp\TextRPG\ui\bin\Debug\engine.pdb
+C:\Users\Jigerai\Documents\dev\csharp\TextRPG\ui\obj\Debug\ui.csprojAssemblyReference.cache
+C:\Users\Jigerai\Documents\dev\csharp\TextRPG\ui\obj\Debug\ui.Properties.Resources.resources
+C:\Users\Jigerai\Documents\dev\csharp\TextRPG\ui\obj\Debug\ui.TestRPG.resources
+C:\Users\Jigerai\Documents\dev\csharp\TextRPG\ui\obj\Debug\ui.csproj.GenerateResource.cache
+C:\Users\Jigerai\Documents\dev\csharp\TextRPG\ui\obj\Debug\ui.csproj.CoreCompileInputs.cache
+C:\Users\Jigerai\Documents\dev\csharp\TextRPG\ui\obj\Debug\ui.csproj.CopyComplete
+C:\Users\Jigerai\Documents\dev\csharp\TextRPG\ui\obj\Debug\ui.exe
+C:\Users\Jigerai\Documents\dev\csharp\TextRPG\ui\obj\Debug\ui.pdb
